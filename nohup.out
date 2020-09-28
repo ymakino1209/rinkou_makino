@@ -1,0 +1,95 @@
+[I 15:49:41.780 NotebookApp] JupyterLab extension loaded from /work/miniconda3/lib/python3.7/site-packages/jupyterlab
+[I 15:49:41.781 NotebookApp] JupyterLab application directory is /work/miniconda3/share/jupyter/lab
+[I 15:49:41.786 NotebookApp] Serving notebooks from local directory: /work/makino/data/rinkou_makino
+[I 15:49:41.786 NotebookApp] The Jupyter Notebook is running at:
+[I 15:49:41.786 NotebookApp] http://localhost:8881/
+[I 15:49:41.786 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 15:50:32.717 NotebookApp] 302 GET / (127.0.0.1) 1.21ms
+[I 15:50:32.726 NotebookApp] 302 GET /tree? (127.0.0.1) 1.16ms
+[I 15:50:35.366 NotebookApp] 302 POST /login?next=%2Ftree%3F (127.0.0.1) 1.22ms
+[I 15:50:55.299 NotebookApp] Creating new notebook in 
+[I 15:51:01.327 NotebookApp] Kernel started: ccdfdf31-ba97-41ee-ba28-2c0ca7fd7bac
+[I 15:52:40.590 NotebookApp] Saving file at /Untitled.ipynb
+[I 15:57:00.994 NotebookApp] Saving file at /rinkou01.py.ipynb
+[I 15:59:01.000 NotebookApp] Saving file at /rinkou01.py.ipynb
+[I 16:01:00.993 NotebookApp] Saving file at /rinkou01.py.ipynb
+[I 16:03:01.003 NotebookApp] Saving file at /rinkou01.py.ipynb
+[I 16:05:00.995 NotebookApp] Saving file at /rinkou01.py.ipynb
+[I 16:07:00.995 NotebookApp] Saving file at /rinkou01.py.ipynb
+[I 16:09:01.032 NotebookApp] Saving file at /rinkou01.py.ipynb
+[I 16:11:00.994 NotebookApp] Saving file at /rinkou01.py.ipynb
+[I 16:13:01.033 NotebookApp] Saving file at /rinkou01.py.ipynb
+[I 16:15:00.993 NotebookApp] Saving file at /rinkou01.py.ipynb
+[I 16:19:00.997 NotebookApp] Saving file at /rinkou01.py.ipynb
+[I 16:21:00.997 NotebookApp] Saving file at /rinkou01.py.ipynb
+[I 16:41:01.005 NotebookApp] Saving file at /rinkou01.py.ipynb
+[I 16:43:01.005 NotebookApp] Saving file at /rinkou01.py.ipynb
+[I 16:45:01.002 NotebookApp] Saving file at /rinkou01.py.ipynb
+[I 16:47:01.005 NotebookApp] Saving file at /rinkou01.py.ipynb
+[I 16:49:01.001 NotebookApp] Saving file at /rinkou01.py.ipynb
+[I 16:51:01.006 NotebookApp] Saving file at /rinkou01.py.ipynb
+[I 16:53:00.996 NotebookApp] Saving file at /rinkou01.py.ipynb
+[I 16:55:01.005 NotebookApp] Saving file at /rinkou01.py.ipynb
+[I 16:57:01.001 NotebookApp] Saving file at /rinkou01.py.ipynb
+[I 16:59:01.032 NotebookApp] Saving file at /rinkou01.py.ipynb
+[I 17:00:03.426 NotebookApp] Saving file at /rinkou01.py.ipynb
+[I 17:01:01.030 NotebookApp] Saving file at /rinkou01.py.ipynb
+[I 17:03:01.001 NotebookApp] Saving file at /rinkou01.py.ipynb
+[I 17:05:01.005 NotebookApp] Saving file at /rinkou01.py.ipynb
+[I 17:07:01.005 NotebookApp] Saving file at /rinkou01.py.ipynb
+[I 17:17:01.010 NotebookApp] Saving file at /rinkou01.py.ipynb
+[I 17:19:01.001 NotebookApp] Saving file at /rinkou01.py.ipynb
+[I 17:21:01.009 NotebookApp] Saving file at /rinkou01.py.ipynb
+[I 17:23:01.009 NotebookApp] Saving file at /rinkou01.py.ipynb
+[I 17:25:01.005 NotebookApp] Saving file at /rinkou01.py.ipynb
+[I 17:27:01.009 NotebookApp] Saving file at /rinkou01.py.ipynb
+[I 17:27:25.604 NotebookApp] Saving file at /rinkou01.py.ipynb
+[I 17:29:01.012 NotebookApp] Saving file at /rinkou01.py.ipynb
+[I 17:31:01.051 NotebookApp] Saving file at /rinkou01.py.ipynb
+[I 17:33:01.011 NotebookApp] Saving file at /rinkou01.py.ipynb
+[I 17:35:01.011 NotebookApp] Saving file at /rinkou01.py.ipynb
+[I 17:37:01.019 NotebookApp] Saving file at /rinkou01.py.ipynb
+[I 17:39:01.014 NotebookApp] Saving file at /rinkou01.py.ipynb
+[I 17:41:01.012 NotebookApp] Saving file at /rinkou01.py.ipynb
+[I 17:43:01.015 NotebookApp] Saving file at /rinkou01.py.ipynb
+[I 17:45:01.008 NotebookApp] Saving file at /rinkou01.py.ipynb
+[I 17:47:01.010 NotebookApp] Saving file at /rinkou01.py.ipynb
+[I 17:49:01.013 NotebookApp] Saving file at /rinkou01.py.ipynb
+[I 17:51:01.015 NotebookApp] Saving file at /rinkou01.py.ipynb
+[I 17:53:01.011 NotebookApp] Saving file at /rinkou01.py.ipynb
+[I 17:53:20.907 NotebookApp] Saving file at /rinkou01.py.ipynb
+[I 17:55:01.019 NotebookApp] Saving file at /rinkou01.py.ipynb
+[I 17:57:01.019 NotebookApp] Saving file at /rinkou01.py.ipynb
+[I 17:59:01.024 NotebookApp] Saving file at /rinkou01.py.ipynb
+[I 18:01:01.017 NotebookApp] Saving file at /rinkou01.py.ipynb
+[I 18:03:01.023 NotebookApp] Saving file at /rinkou01.py.ipynb
+[I 18:05:01.018 NotebookApp] Saving file at /rinkou01.py.ipynb
+[I 18:05:19.158 NotebookApp] Saving file at /rinkou01.py.ipynb
+[I 18:07:01.020 NotebookApp] Saving file at /rinkou01.py.ipynb
+[I 18:09:01.020 NotebookApp] Saving file at /rinkou01.py.ipynb
+[I 18:11:01.022 NotebookApp] Saving file at /rinkou01.py.ipynb
+[I 18:13:01.019 NotebookApp] Saving file at /rinkou01.py.ipynb
+[I 18:13:36.630 NotebookApp] Saving file at /rinkou01.py.ipynb
+[I 18:19:01.029 NotebookApp] Saving file at /rinkou01.py.ipynb
+[I 18:21:01.021 NotebookApp] Saving file at /rinkou01.py.ipynb
+[I 18:23:01.024 NotebookApp] Saving file at /rinkou01.py.ipynb
+[I 18:25:01.026 NotebookApp] Saving file at /rinkou01.py.ipynb
+[I 18:27:01.023 NotebookApp] Saving file at /rinkou01.py.ipynb
+[I 18:27:04.535 NotebookApp] Saving file at /rinkou01.py.ipynb
+[I 18:28:38.251 NotebookApp] Saving file at /rinkou01.py.ipynb
+[I 18:31:01.179 NotebookApp] Saving file at /rinkou01.py.ipynb
+[I 18:33:01.070 NotebookApp] Saving file at /rinkou01.py.ipynb
+[I 18:35:01.067 NotebookApp] Saving file at /rinkou01.py.ipynb
+[I 18:37:01.167 NotebookApp] Saving file at /rinkou01.py.ipynb
+[I 18:39:01.197 NotebookApp] Saving file at /rinkou01.py.ipynb
+[I 18:41:01.046 NotebookApp] Saving file at /rinkou01.py.ipynb
+[I 18:43:01.060 NotebookApp] Saving file at /rinkou01.py.ipynb
+[I 18:45:01.037 NotebookApp] Saving file at /rinkou01.py.ipynb
+[I 18:47:01.077 NotebookApp] Saving file at /rinkou01.py.ipynb
+[I 18:49:01.032 NotebookApp] Saving file at /rinkou01.py.ipynb
+[I 18:51:01.025 NotebookApp] Saving file at /rinkou01.py.ipynb
+[I 18:53:01.042 NotebookApp] Saving file at /rinkou01.py.ipynb
+[I 18:55:01.057 NotebookApp] Saving file at /rinkou01.py.ipynb
+[I 18:59:01.038 NotebookApp] Saving file at /rinkou01.py.ipynb
+[I 18:59:07.827 NotebookApp] Saving file at /rinkou01.py.ipynb
+[I 19:00:12.509 NotebookApp] Saving file at /rinkou01.py.ipynb
