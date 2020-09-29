@@ -22,15 +22,15 @@ def exprot_file_space(DataFrame):
 # 自然数Nをコマンドライン引数にとり、入力のうち先頭のN行を出力する
 # export the initial "n" lines
 def exprot_file_initial_n(DataFrame, num_lines):
-    file_name_new = os.path.splitext(os.path.basename(filename))[0] + "_initial" + num_lines + ".txt"
+    file_name_new = os.path.splitext(os.path.basename(filename))[0] + "_initial" + str(num_lines) + ".txt"
     df_initial_n = DataFrame[:num_lines]
     return df_initial_n.to_csv(path_or_buf = file_name_new, 
                                sep="\t", columns=None, header=None, index=None, encoding="utf_8")
 
 # 自然数Nをコマンドライン引数にとり、入力のうち末尾のN行を出力する
 # exprot the last "n" lines
-def exprot_file_initial_n(DataFrame, num_lines):
-    file_name_new = os.path.splitext(os.path.basename(filename))[0] + "_last" + num_lines + ".txt"  
+def exprot_file_last_n(DataFrame, num_lines):
+    file_name_new = os.path.splitext(os.path.basename(filename))[0] + "_last" + str(num_lines) + ".txt"  
     df_last_n = df[-num_lines:]
     return df_last_n.to_csv(path_or_buf = file_name_new, 
                             sep="\t", columns=None, header=None, index=None, encoding="utf_8")
@@ -47,13 +47,13 @@ def count_city(DataFrame):
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="show partial lines of file")
     parser.add_argument("file", help="file path", type=str)
-    parser.add_argument("number", help="number of lines", type=int)
-
+    parser.add_argument("number", help="number of lines 1", type=int)
+    
     args = parser.parse_args()
 
     filename = args.file
     nlines = args.number
-
+    
     # read file
     df = read_file(filename)
 
@@ -63,5 +63,11 @@ if __name__ == "__main__":
     # export file as space-limited file
     exprot_file_space(df)
     
+    # export the initial "n" lines
+    exprot_file_initial_n(df, nlines)
+
+    # exprot the last "n" lines
+    exprot_file_last_n(df, nlines)
+
     #  Count the first column & display string/counts
     count_city(df)
